@@ -1,0 +1,20 @@
+.board {
+    background-color: #2c3d37;
+    width: 30vw;
+    text-align: center;
+    margin: 1vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.board h2 {
+    background-color: #2c3d37;
+    color: #3ac29d;
+    display: flex;
+    text-align: center;
+    font-size: 5vh;
+    line-height: 8vh;
+}

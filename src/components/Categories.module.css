@@ -1,0 +1,22 @@
+.header {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.category {
+    display: flex;
+    flex-direction: column;
+    margin: 1vw;
+}
+
+.title {
+    display: flex;
+    color: white;
+    font-size: 3vh;
+    width: 30vw;
+    height: 10vh;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}

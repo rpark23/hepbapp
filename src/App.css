@@ -1,0 +1,25 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  background-color: black;
+  font-family: "Open Sans";
+}
+
+body {
+  margin: 1vh;
+}
+
+h1 {
+  background-color: #2c3d37;
+  color: #3ac29d;
+  text-align: center;
+  line-height: 10vh;
+  border-radius: 5px;
+}
+
+button {
+  background-color: white;
+  color: black;
+}
+

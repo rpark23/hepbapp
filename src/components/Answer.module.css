@@ -1,0 +1,80 @@
+.card {
+    top: 12vh;
+    left: 0;
+    position: absolute;
+    color: white;
+    width: 100vw;
+    height: 100vh;
+    padding: 5vh;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.question {
+    top: 5vh;
+    font-size: 5vh;
+    margin: 3vh 0;
+    width: 100%;
+}
+
+.form {
+    display: flex;
+    margin: 3vh 0;
+    width: 90vw;
+    justify-content: space-between;
+    border-style: none;
+}
+
+.input {
+    display: flex;
+    background-color: white;
+    font-size: 4vh;
+    padding: 5px;
+    border-style: none;
+    border-radius: 5px;
+    width: 63vw;
+    height: 10vh;
+}
+
+.submit {
+    width: 25vw;
+    border-style: none;
+    border-radius: 5px;
+    font-size: 4vh;
+    height: 10vh;
+    background-color: #3ac29d;
+}
+
+.answer {
+    font-size: 3vh;
+}
+
+.answer button {
+    margin: 3vh;
+    padding: 1vh;
+    font-size: 3vh;
+    border-style: none;
+    border-radius: 5px;
+}
+
+.correct {
+    background-color: #3ac29d;
+}
+
+.wrong {
+    background-color: red;
+}
+
+.button {
+    top: 0;
+    right: 10px;
+    position: absolute;
+    height: 40px;
+    width: 40px;
+    color: white;
+    border-style: none;
+    background-color: black;
+    font-size: 4vh;
+}
