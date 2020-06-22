@@ -7,14 +7,14 @@
 .category {
     display: flex;
     flex-direction: column;
-    margin: 1vw;
+    margin: 1vh;
 }
 
 .title {
     display: flex;
     color: white;
     font-size: 2vh;
-    width: 30vw;
+    width: 27vw;
     height: 10vh;
     align-items: center;
     justify-content: center;
