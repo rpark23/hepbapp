@@ -1,8 +1,8 @@
 .board {
     background-color: #2c3d37;
-    width: 32%;
+    width: 30%;
     text-align: center;
-    margin: 0.6%;
+    margin: 3vh 1.5%;
     display: flex;
     align-items: center;
     justify-content: center;
