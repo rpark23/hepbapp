@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/hepbapp/static/css/main.1321386c.chunk.css",
+    "main.css": "/hepbapp/static/css/main.ef95f238.chunk.css",
     "main.js": "/hepbapp/static/js/main.cb0acc2a.chunk.js",
     "main.js.map": "/hepbapp/static/js/main.cb0acc2a.chunk.js.map",
     "runtime-main.js": "/hepbapp/static/js/runtime-main.cd4b339f.js",
@@ -8,15 +8,15 @@
     "static/js/2.dc41017d.chunk.js": "/hepbapp/static/js/2.dc41017d.chunk.js",
     "static/js/2.dc41017d.chunk.js.map": "/hepbapp/static/js/2.dc41017d.chunk.js.map",
     "index.html": "/hepbapp/index.html",
-    "precache-manifest.8dd7a3d13aea71b6eb900b2452c0d88a.js": "/hepbapp/precache-manifest.8dd7a3d13aea71b6eb900b2452c0d88a.js",
+    "precache-manifest.7940ab1603c3d03fdb3d90c6029a783f.js": "/hepbapp/precache-manifest.7940ab1603c3d03fdb3d90c6029a783f.js",
     "service-worker.js": "/hepbapp/service-worker.js",
-    "static/css/main.1321386c.chunk.css.map": "/hepbapp/static/css/main.1321386c.chunk.css.map",
+    "static/css/main.ef95f238.chunk.css.map": "/hepbapp/static/css/main.ef95f238.chunk.css.map",
     "static/js/2.dc41017d.chunk.js.LICENSE.txt": "/hepbapp/static/js/2.dc41017d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.cd4b339f.js",
     "static/js/2.dc41017d.chunk.js",
-    "static/css/main.1321386c.chunk.css",
+    "static/css/main.ef95f238.chunk.css",
     "static/js/main.cb0acc2a.chunk.js"
   ]
 }
