@@ -2,19 +2,21 @@
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
+    width: 100%;
 }
 
 .category {
+    width: 32%;
     display: flex;
     flex-direction: column;
-    margin: 1vh;
+    margin: 0.6%;
 }
 
 .title {
     display: flex;
     color: white;
     font-size: 2vh;
-    width: 27vw;
+    
     height: 10vh;
     align-items: center;
     justify-content: center;
